@@ -1,4 +1,4 @@
-package com.example.bayrak_quiz_app
+package com.example.flag_quiz_app
 
 import io.flutter.embedding.android.FlutterActivity
 

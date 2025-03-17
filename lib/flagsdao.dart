@@ -1,5 +1,5 @@
-import 'package:bayrak_quiz_app/database_helper.dart';
-import 'package:bayrak_quiz_app/flags.dart';
+import 'package:flag_quiz_app/database_helper.dart';
+import 'package:flag_quiz_app/flags.dart';
 
 class Flagsdao {
   Future<List<Flags>> getRandom5Flags() async {

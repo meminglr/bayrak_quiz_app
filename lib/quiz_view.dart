@@ -1,4 +1,4 @@
-import 'package:bayrak_quiz_app/result_view.dart';
+import 'package:flag_quiz_app/result_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
